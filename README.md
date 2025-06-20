@@ -51,8 +51,9 @@ Yang unik dari saya? Saya paling produktif saat malam hari — ketika suasana su
 
 | Project | Deskripsi | Link |
 |--------|-----------|------|
-| `FashionDesktop` | Aplikasi Dekstop yang digunakan untuk mengelola toko perlengkapan busana | [GitHub](https://github.com/JojooLearn/JoFashion) |
-| `SayurIn` | Aplikasi stok & penjualan untuk pedagang sayur berbasis Android | [GitHub](https://github.com/JojooLearn/TokoRitel_App) |
+| `FashionDesktop` | Aplikasi Dekstop yang digunakan untuk mempermudah pelanggan dalam memesan produk | [GitHub](https://github.com/JojooLearn/JoFashion) |
+| `KantinOrder` | Aplikasi Desktop untuk kantin untuk meningkatkan efisiensi proses | [GitHub](https://github.com/JojooLearn/aplikasi_kantin.java.git) |
+| `GoRitel` | Aplikasi stok & penjualan untuk pedagang sayur berbasis Android | [GitHub](https://github.com/JojooLearn/TokoRitel_App) |
 | `Lapakku` | Aplikasi POS untuk pedagang lapak berbasis Android | [GitHub](https://github.com/JojooLearn/Aplikasi_Lapakku) |
 | `PesonaKlaten` | Aplikasi wisata untuk rekomendasi berbagai tempat di kota klaten | [GitHub](https://github.com/JojooLearn/PesonaKlaten) |
 
