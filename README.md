@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-Halo! Saya Jojo, seorang mahasiswa yang sangat antusias dengan dunia pemrograman dan desain aplikasi. Sejak mendalami pengembangan aplikasi mobile, saya menemukan passion dalam membangun solusi digital yang tidak hanya fungsional, tapi juga indah dan nyaman digunakan.
+Hello! I'm Jojo, a student who is very enthusiastic about programming and application design. Since delving into mobile application development, I have found a passion for building digital solutions that are not only functional, but also beautiful and comfortable to use.
 
-Saya senang menulis kode bersih, mengeksplorasi fitur Android terbaru, dan merancang tampilan antarmuka yang intuitif menggunakan **Figma**. Belakangan ini saya fokus menggunakan **Java**, **Kotlin**, **Firebase**, dan sedikit sentuhan **PHP** untuk kebutuhan backend ringan.
+I enjoy writing clean code, exploring the latest Android features, and designing intuitive user interfaces using **Figma**. Lately, I've been focusing on using **Java**, **Kotlin**, **Firebase**, and a touch of **PHP** for lightweight backend needs.
 
-Yang unik dari saya? Saya paling produktif saat malam hari — ketika suasana sunyi, saya bisa benar-benar tenggelam dalam dunia kode dan desain. Ngoding di tengah malam memberi saya rasa tenang dan kepuasan tersendiri ✨
+What's unique about me? I'm most productive at night—when it's quiet, I can truly immerse myself in the world of code and design. Coding in the middle of the night gives me a sense of calm and satisfaction ✨
 
 ---
 
@@ -80,8 +80,8 @@ Yang unik dari saya? Saya paling produktif saat malam hari — ketika suasana su
 
 ## ✨ Fun Facts
 
-🌙 Saya lebih suka ngoding saat tengah malam — ketika dunia terlelap, saya justru merasa paling hidup dengan editor terbuka, musik tenang, dan ide-ide segar bermunculan. Saat itulah baris-baris kode saya mengalir lancar dan penuh kreativitas.
+🌙 I prefer coding in the middle of the night — when the world is asleep, I feel most alive with my editor open, quiet music playing, and fresh ideas popping up. That's when my lines of code flow smoothly and creatively.
 
 ---
 
-<p align="center">✨ Terima kasih sudah mampir! Jangan ragu untuk connect atau kolaborasi ya! ✨</p>
+<p align="center">✨ Thanks for stopping by! Feel free to connect or collaborate! ✨</p>
