@@ -43,9 +43,6 @@ What's unique about me? I'm most productive at night—when it's quiet, I can tr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JojooLearn&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JojooLearn&theme=tokyo-night" />
-</p>
 
 ## 📱 Recent Projects
 
