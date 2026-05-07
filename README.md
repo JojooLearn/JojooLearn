@@ -50,26 +50,6 @@ What's unique about me? I'm most productive at night—when it's quiet, I can tr
 
 ---
 
-## 📱 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|:--- |:--- |:--- |:---:|
-| **Trashure** | Gamified waste management app with mascot integration. | Flutter, Figma | [View](https://github.com/JojooLearn/Trashure) |
-| **HABIO** | Adaptive productivity app focused on mental well-being. | Flutter, SQLite | [View](https://github.com/JojooLearn/HABIO) |
-| **GoRitel** | Stock & sales management for local grocery vendors. | Android, Kotlin | [View](https://github.com/JojooLearn/TokoRitel_App) |
-| **PesonaKlaten** | Tourism recommendation app for Klaten city. | Android, Java | [View](https://github.com/JojooLearn/PesonaKlaten) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JojooLearn&show_icons=true&theme=radical" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojooLearn&layout=compact&theme=radical" width="48%" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
